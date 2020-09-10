@@ -1,0 +1,8 @@
+--1)SELECT * FROM sales
+--2)SELECT * FROM places WHERE(price <10)
+--3)SELECT * FROM places WHERE(ryad = 1 and price > 20)
+--4)SELECT * FROM places WHERE ryad IN(5,8,12) and price = 12
+--SELECT * FROM afisha WHERE datetime BETWEEN '2019-05-24' AND '2019-05-31'
+--5)SELECT afisha.[id spektakl] from afisha where afisha.datetime Between '20190530' and '20190607'
+--select * from afisha where datetime = null
+--7)select * from spektakl where name like 'R%'
